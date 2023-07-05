@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F23L034_UpAndDown", "F23L034_UpAndDown\F23L034_UpAndDown.csproj", "{132492F0-133C-4446-AD44-AC0474393D34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 Tools", "99 Tools", "{257DAE1B-9980-4D3C-9EC8-FB27D116CF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Mvvm", "Tools.Mvvm\Tools.Mvvm.csproj", "{1F1CF037-D8EF-436B-B317-9C7B0B0D846D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132492F0-133C-4446-AD44-AC0474393D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132492F0-133C-4446-AD44-AC0474393D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132492F0-133C-4446-AD44-AC0474393D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132492F0-133C-4446-AD44-AC0474393D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1CF037-D8EF-436B-B317-9C7B0B0D846D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1CF037-D8EF-436B-B317-9C7B0B0D846D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1CF037-D8EF-436B-B317-9C7B0B0D846D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1CF037-D8EF-436B-B317-9C7B0B0D846D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F1CF037-D8EF-436B-B317-9C7B0B0D846D} = {257DAE1B-9980-4D3C-9EC8-FB27D116CF2F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C706EE-7E47-44FF-9F9D-0A737C250FFB}
+	EndGlobalSection
+EndGlobal
